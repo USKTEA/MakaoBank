@@ -2,7 +2,7 @@ main {
   position: relative;
   width: 150vw;
   height: calc(100vh - 4em);
-  background: url(/src/wave.svg);
+  background: url(../src/wave.svg);
   background-color: #0f7562;
   background-size: cover;
 }
