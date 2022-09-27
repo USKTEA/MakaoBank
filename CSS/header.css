@@ -1,0 +1,46 @@
+header {
+  background-color: #0c5a4c;
+  height: 4em;
+}
+
+header div {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0 1rem;
+  min-width: 1024px;
+  height: 100%;
+}
+
+header h1 {
+  margin-right: 3.5rem;
+  height: 38px;
+  width: 38px;
+  color: #fff;
+}
+
+header h1 a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-indent: -1000px;
+  background: url(/src/logo.png) no-repeat 0 50%;
+  background-size: contain;
+  overflow: hidden;
+}
+
+header ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4em;
+}
+
+header li {
+  font-weight: 300;
+}
+
+header a {
+  font-size: 0.9em;
+  color: #fff;
+}
