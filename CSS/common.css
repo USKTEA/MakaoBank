@@ -23,7 +23,7 @@ h2 {
   left: 16%;
   width: 28vh;
   height: 58vh;
-  background: url(/src/man.png) no-repeat 0 50%;
+  background: url(../src/man.png) no-repeat 0 50%;
   background-size: contain;
   z-index: 1;
 }
@@ -34,7 +34,7 @@ h2 {
   right: 7%;
   width: 44vh;
   height: 60vh;
-  background: url(/src/woman.png) no-repeat 0 50%;
+  background: url(../src/woman.png) no-repeat 0 50%;
   background-size: contain;
   z-index: 1;
 }
